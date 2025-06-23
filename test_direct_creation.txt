@@ -1,2 +1,0 @@
-This is a test file created directly without a plan.
-Let's see if it appears in the <> Code section.

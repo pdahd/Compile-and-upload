@@ -1,2 +1,0 @@
-This file is created directly (no plan) AFTER a planned file creation.
-Let's observe the '<> Code' panel behavior now.
