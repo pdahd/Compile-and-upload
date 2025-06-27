@@ -11,8 +11,11 @@ bin-release/
 *.swf
 *.air
 *.ipa
-*.apk
+# *.apk
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+#google_drive_manager.sh
+#red-splice-408603-f464c7873a2c.json
